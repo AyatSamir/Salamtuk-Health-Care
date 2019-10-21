@@ -1,5 +1,5 @@
 # Salamtuk-Health-Care
-Salamtuk Health Care Project Simulate Veezeta Website With The Following Features:
+This project provides booking online for clients, payment online, also to know appointments that related all doctors,comments for evaluate all doctors and Simulate Veezeta Website  With The Following Features:
 1) Complete endpoints for doctors (CRUD) operations.
 2) Complete endpoints for doctors' appointments (CRUD) operations.
 3) Complete endpoints for patients (CRUD) operations.
