@@ -4,7 +4,7 @@ This project provides booking online for clients, payment online, also to know a
 2) Complete endpoints for doctors' appointments (CRUD) operations.
 3) Complete endpoints for patients (CRUD) operations.
 4) Complete endpoints for patients' booking (CRUD) operations.
-5) Complete endpoints for patienssts' comments (CRUD) operations.
+5) Complete endpoints for patiensts' comments (CRUD) operations.
 6) Complete endpoints for attendance for patients booking (CRUD) operations.
 7) Complete endpoints for doctors' clinics (CRUD) operations.
 8) Complete endpoints for choosing payment types for online booking (CRUD) operations.
