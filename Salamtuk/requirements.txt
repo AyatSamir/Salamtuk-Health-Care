@@ -10,7 +10,7 @@ django-countries==5.4
 django-phonenumber-field==3.0.1
 django-rest-auth==0.9.5
 django-uuidfield==0.5.0
-djangorestframework==3.10.2
+djangorestframework==3.11.2
 djangorestframework-simplejwt==4.3.0
 fcm-django==0.2.21
 google-api-core==1.14.2
